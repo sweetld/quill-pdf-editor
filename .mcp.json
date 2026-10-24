@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "quill-pdf": {
+      "type": "stdio",
+      "command": "/media/daud/Hybrid640/work/master-pdf-editor/mcp-server.sh",
+      "args": []
+    }
+  }
+}
