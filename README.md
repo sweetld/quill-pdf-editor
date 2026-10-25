@@ -79,6 +79,12 @@ Built in phases:
 QT_QPA_PLATFORM=offscreen .venv/bin/python tests/test_gui_follow.py  # viewer live-reload
 ```
 
+## Licence
+
+AGPL-3.0, see [`LICENSE`](LICENSE). Quill is built on PyMuPDF/MuPDF, which is
+AGPL-3.0, so the application carries that licence. Its other dependencies are
+PySide6 (LGPL-3.0), Pillow (MIT-CMU) and the MCP Python SDK (MIT).
+
 ## Project layout
 
 ```
